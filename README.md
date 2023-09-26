@@ -7,4 +7,4 @@
 
 ## Datos
 
-Los datos del proyecto vienen de [La competición Kaggle Allstate Claims Severity](https://www.kaggle.com/competitions/allstate-claims-severity/overview)    
+Los datos del proyecto vienen de [La competición Kaggle Allstate Claims Severity] (https://www.kaggle.com/competitions/allstate-claims-severity/overview)    
