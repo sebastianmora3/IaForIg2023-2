@@ -9,7 +9,7 @@
 
 Los datos del proyecto vienen de[ La competición Kaggle Allstate Claims Severity](https://www.kaggle.com/competitions/allstate-claims-severity/overview) y se pueden hacer disponibles ejecutando desde cualquier notebook en Colab los siguientes comandos.
 
-*Execute Kaggle Libraries to link your Kaggle Json:*
+*Paste the commands to upload your Kaggle Json:*
 ```
 !pip install -U -q kaggle
 !mkdir -p ~/.kaggle
@@ -19,5 +19,6 @@ files.upload()
 
 *To download the dataset in your Colab Notebook, using de Kaggle API as follows:*
 ```
+!cp kaggle.json ~/.kaggle/
 !kaggle competitions download -c allstate-claims-severity
 ```
