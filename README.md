@@ -7,4 +7,9 @@
 
 ## Datos
 
-Los datos del proyecto vienen de[ La competición Kaggle Allstate Claims Severity](https://www.kaggle.com/competitions/allstate-claims-severity/overview)
+Los datos del proyecto vienen de[ La competición Kaggle Allstate Claims Severity](https://www.kaggle.com/competitions/allstate-claims-severity/overview) y se pueden hacer disponibles ejecutando desde cualquier notebook en Colab los siguientes comandos
+
+  ! !pip install -U -q kaggle
+  ! !mkdir -p ~/.kaggle
+  ! from google.colab import files
+  ! files.upload()
